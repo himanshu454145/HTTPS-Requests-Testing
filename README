@@ -1,0 +1,8 @@
+
+CLone this repository
+
+Run these commands :
+
+npm init -y
+
+npm install express body-parser axios
