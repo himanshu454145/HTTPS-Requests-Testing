@@ -1,8 +1,7 @@
 Clone this repository 
 
 
-Install the packages 
-npm init -y
+Install the package 
 
 npm install express body-parser axios
 
